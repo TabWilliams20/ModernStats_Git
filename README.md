@@ -1,3 +1,3 @@
 # styles
  
-Please use the `gh-pages` branch
+Treat `gh-pages` branch as the main branch. This template does not build out to gh-pages
