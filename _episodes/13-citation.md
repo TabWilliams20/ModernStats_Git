@@ -1,15 +1,14 @@
 ---
-title: "Introduction"
-teaching: 10
+title: "Citation"
+teaching: 5
 exercises: 0
 questions:
-- "Why use version control in official statistics?"
+- "How can I make my work easier to cite?"
 objectives:
-- "First learning objective. (FIXME)"
+- "How to cite and be cited"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 Welcome to using Git in Official Statistics!
 
 {% include links.md %}
-

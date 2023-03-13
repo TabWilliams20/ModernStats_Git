@@ -1,15 +1,14 @@
 ---
-title: "Introduction"
-teaching: 10
+title: "Setting up Git"
+teaching: 5
 exercises: 0
 questions:
-- "Why use version control in official statistics?"
+- "How do I set up Git?"
 objectives:
-- "First learning objective. (FIXME)"
+- "configure basic settings in Git"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 Welcome to using Git in Official Statistics!
 
 {% include links.md %}
-

@@ -1,15 +1,14 @@
 ---
-title: "Introduction"
+title: "Creating a Repository"
 teaching: 10
 exercises: 0
 questions:
-- "Why use version control in official statistics?"
+- "Where does Git store information?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Create a repository in a local folder"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 Welcome to using Git in Official Statistics!
 
 {% include links.md %}
-
